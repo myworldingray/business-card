@@ -1,0 +1,28 @@
+body {
+    margin: 20px;
+  font-family: Tahoma, Brush Script MT, Courier-new, Verdana, Geneva, Tahoma, sans-serif;
+}
+.picture-2d {
+  width: 150px;
+ }
+.card{
+  background : #E9DBEC;
+  width: 400px;
+  margin: 0 auto;
+  padding : 20px;
+  display: flex;
+  justify-content: space-around;
+  text-align: center; 
+  color: #B09CD5;
+  border-bottom: 20px solid #C893D1;
+  border-radius: 20px;
+    box-shadow : 10px 10px;
+}
+h4{
+  font-style: italic;
+  font-family: Brush Script MT;
+  color: #A68CD2;
+  }
+p:hover, h3:hover{
+  background-color: #B570C0;
+}
